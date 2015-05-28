@@ -8,4 +8,4 @@ import App from './App.jsx!'
     <App name="Lucian" />,
     document.getElementById('react-app')
   )
-})()
+})();
