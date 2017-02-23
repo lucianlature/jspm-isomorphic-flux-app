@@ -46,11 +46,11 @@
     }
   },
   "devDependencies": {
-    "jspm": "~0.15.6"
+    "jspm": "~0.16.52"
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "koa": "^0.20.0",
-    "path": "^0.11.14"
+    "koa": "^1.2.5",
+    "path": "^0.12.7"
   }
 }
